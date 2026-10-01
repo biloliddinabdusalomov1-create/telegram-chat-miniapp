@@ -9,3 +9,4 @@ pydantic-settings
 python-dotenv
 jinja2
 python-multipart
+greenlet
